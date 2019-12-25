@@ -1,2 +1,2 @@
-# oauthceptors-python
-OAuthceptors framework for Python 
+# authority-python
+Authority Framework for Python 
